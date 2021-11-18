@@ -12,18 +12,12 @@
 - 📚 I am a student of analysis and development of information systems at SENA, Colombia.
 
 - 📓 I study systems technology at the University of the Valley, Colombia.
-<br>
-
-
 
 <h3>
   Te invito a que visites mi perfil en linkedin
-</h3>
   <a href="https://www.linkedin.com/in/stevencardona/">Ir a perfil</a>
-
-
-
-<br>
+</h3>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html" width="50" height="50" />
