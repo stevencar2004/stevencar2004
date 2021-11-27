@@ -14,8 +14,8 @@
 - 📓 I study systems technology at the University of the Valley, Colombia.
 
 <h3>
-  Te invito a que visites mi perfil en linkedin
-  <a href="https://www.linkedin.com/in/stevencardona/">Ir a perfil</a>
+  I invite you to visit my profile on LinkedIn 
+  <a href="https://www.linkedin.com/in/stevencardona/">**Ir a perfil**</a>
 </h3>
   
 <h3 align="left">Languages and Tools:</h3>
