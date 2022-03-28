@@ -4,13 +4,13 @@
 </h3>
 
 <h4>Portafolio Web</h4>
- <a href="https://stevencar2004.github.io/PortafolioWeb/">See Page</a>
+ <a href="https://stevencar2004.github.io/PortafolioWeb/">Link Portafolio Web</a>
 
 <h4>About me: </h4>
 
-- 🚀 I'm learning <b> React, NodeJs, Typescript, C++ </b>
+- 🚀 I'm learning <b> Java, NodeJS, Test Automation </b>
 
-- 📚 I am a student of analysis and development of information systems at SENA, Colombia.
+- 📚 I am a FrontEnd Developer - Stack MERN
 
 - 📓 I study systems technology at the University of the Valley, Colombia.
 
@@ -29,8 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="50"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" />
